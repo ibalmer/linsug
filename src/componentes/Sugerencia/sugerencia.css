@@ -29,6 +29,9 @@
     border-radius: 16px;
     cursor: pointer;
 }
+.button:hover{
+    outline: 2px solid black;
+}
 .usuario{
     font-size: 14px;
 }
