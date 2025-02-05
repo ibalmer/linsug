@@ -1,0 +1,41 @@
+.sug-sec{
+    display: flex;
+    gap: .4rem;
+}
+.avatar{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+.datos{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+.desc{
+    display: flex;
+    align-items: center;
+    gap: .2rem;
+}
+.button{
+    width: fit-content;
+    display: flex;
+    padding-inline: .7rem;
+    padding-block: .4rem;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    border: 2px solid black;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.usuario{
+    font-size: 14px;
+}
+.texto-desc{
+    font-size: 12px;
+    font-weight: 200;
+}
+.fa-circle{
+    font-size: 5px;
+}

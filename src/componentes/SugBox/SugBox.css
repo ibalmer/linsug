@@ -1,0 +1,19 @@
+.add{
+    margin-block-end: 1rem;
+
+}
+.sug-cont{
+    width: 300px;
+    height: fit-content;
+    padding: .75rem;
+    border: 1px solid black;
+    border-radius: 16px;
+}
+.sug-list{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.recomendaciones{
+    margin-block-start: 1rem;
+}
