@@ -10,7 +10,7 @@ export function SugBox(){
             dscAvatar: 'la imagen',
             nombreUsuario:'Juan Perez',
             descripcion: 'Empresa',
-            descripcionOpcional: 'Panchos de importacion.',
+            descripcionOpcional: 'Articulos de importacion.',
             verificado: true
         },
         {
